@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+tensorflow
+matplotlib
+Pillow
+mysql.connector
+requests
+cv2
+plotly
+schedule
+opencv-python
+
+
